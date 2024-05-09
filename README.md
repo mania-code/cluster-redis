@@ -2,12 +2,6 @@ Minikube Redis Cluster Setup
 
 This contains shell scripts to automate the setup of a Redis cluster using Minikube and Helm. The following instructions guide you through the setup process and the usage of each script.
 
-Prerequisites
-
-Minikube installed and configured.
-Helm v3.x installed.
-Podman installed (or Docker, if preferred).
-
 Steps
 1. Cluster Setup
 
